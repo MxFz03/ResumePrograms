@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePayCalculator2", "SimplePayCalculator2\SimplePayCalculator2.csproj", "{27CC4ACA-723E-474B-BF7F-B8B0440E7701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CC4ACA-723E-474B-BF7F-B8B0440E7701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CC4ACA-723E-474B-BF7F-B8B0440E7701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CC4ACA-723E-474B-BF7F-B8B0440E7701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CC4ACA-723E-474B-BF7F-B8B0440E7701}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5157932C-C63D-4FDB-96A9-689B9F006E23}
+	EndGlobalSection
+EndGlobal
